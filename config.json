@@ -13,5 +13,5 @@
     "maxHeartbeatInterval": 5000,
     "foodUniformDisposition": false,
     "newPlayerInitialPosition": "farthest",
-    "massLossRate": 2000
+    "massLossRate": 500
 }
