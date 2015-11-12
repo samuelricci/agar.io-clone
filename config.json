@@ -1,17 +1,17 @@
 {
     "port": 3000,
-    "foodMass": 1,
+    "foodMass": 5,
     "defaultPlayerMass": 10,
-    "gameWidth": 5000,
-    "gameHeight": 5000,
+    "gameWidth": 3000,
+    "gameHeight": 3000,
     "adminPass": "DEFAULT",
     "gameMass": 20000,
-    "maxFood": 1000,
-    "slowBase": 4.5,
+    "maxFood": 3000,
+    "slowBase": 2.5,
     "logChat": 0,
     "networkUpdateFactor": 40,
     "maxHeartbeatInterval": 5000,
-    "foodUniformDisposition": true,
+    "foodUniformDisposition": false,
     "newPlayerInitialPosition": "farthest",
-    "massLossRate": 10
+    "massLossRate": 3
 }
